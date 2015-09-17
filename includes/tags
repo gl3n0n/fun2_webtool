@@ -1,0 +1,170 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.4	//
+ACL	ACL.class.php	/^	function ACL()$/;"	f
+ACL	ACL.class.php	/^class ACL$/;"	c
+Allowed	UserACL.class.php	/^	function Allowed($role='',$mod='',$type='can_view')$/;"	f
+CGIUtils	myCGI.php	/^	function CGIUtils()$/;"	f
+CGIUtils	myCGI.php	/^class CGIUtils$/;"	c
+CheckFields	ACL.class.php	/^	function CheckFields($data=null,$ok=0)$/;"	f
+CheckFields	Role.class.php	/^	function CheckFields($data=null,$ok=0)$/;"	f
+CheckFields	User.class.php	/^	function CheckFields($data=null,$ok=0)$/;"	f
+Delete	ACL.class.php	/^	function Delete($id=0)$/;"	f
+Delete	Role.class.php	/^	function Delete($id=0)$/;"	f
+Delete	User.class.php	/^	function Delete($id=0)$/;"	f
+EventLogger	EventLogger.class.php	/^	function EventLogger()$/;"	f
+EventLogger	EventLogger.class.php	/^class EventLogger$/;"	c
+Get	ACL.class.php	/^	function Get($id='')$/;"	f
+Get	Role.class.php	/^	function Get($id='')$/;"	f
+Get	User.class.php	/^	function Get($id=0)$/;"	f
+Get	UserACL.class.php	/^	function Get($role='',$mod='')$/;"	f
+GetInstance	ACL.class.php	/^	function &GetInstance()$/;"	f
+GetInstance	EventLogger.class.php	/^	function &GetInstance()$/;"	f
+GetInstance	Role.class.php	/^	function &GetInstance()$/;"	f
+GetInstance	Select_Options_Master.class.php	/^	function &GetInstance()$/;"	f
+GetInstance	UserACL.class.php	/^	function &GetInstance()$/;"	f
+GetInstance	myOraDb.php	/^	function &GetInstance($usr,$pwd,$dsn)$/;"	f
+GetOldPasswords	User.class.php	/^	function GetOldPasswords($user='')$/;"	f
+GetTransKeyLog	View_Report_Master.php	/^	function GetTransKeyLog($tran_id='',$code='')$/;"	f
+IfExists	ACL.class.php	/^	function IfExists($c1='',$c2='',$id=0,$ok=0)$/;"	f
+IfExists	Role.class.php	/^	function IfExists($c1='',$id=0,$ok=0)$/;"	f
+IfExists	User.class.php	/^	function IfExists($c1='',$id=0,$ok=0)$/;"	f
+InquireWebStatus	View_Report_Master.php	/^	function InquireWebStatus($app_ref_id='', $tran_id='')$/;"	f
+ListBeneficiaryReport	View_Report_Master.php	/^	function ListBeneficiaryReport($extravars=null, $q_sdate,$q_edate, $q_status,$q_msisdn)$/;"	f
+ListSuspectTransactionReport	View_Report_Master.php	/^	function ListSuspectTransactionReport($extravars, $q_sdate,$q_edate,$q_tran_id, $q_mtcn)$/;"	f
+ListTransactionReport	View_Report_Master.php	/^	function ListTransactionReport($extravars, $q_sdate,$q_edate,$q_tran_id, $q_status,$q_result_code, $q_initiator,$q_mtcn)$/;"	f
+List_WU_and_Gcash_Report	View_Report_Master.php	/^	function List_WU_and_Gcash_Report($extravars, $q_sdate,$q_edate)$/;"	f
+Lock	User.class.php	/^	function Lock($id=0)$/;"	f
+LockoutCtrUpdate	User.class.php	/^	function LockoutCtrUpdate($id=0)$/;"	f
+LogEvent	EventLogger.class.php	/^	function LogEvent($mod="",$msg="")$/;"	f
+LoginUpdate	User.class.php	/^	function LoginUpdate($id=0)$/;"	f
+LogoutUpdate	User.class.php	/^	function LogoutUpdate($id=0)$/;"	f
+Open	User.class.php	/^		function Open($user='')$/;"	f
+ResetLockoutCtrUpdate	User.class.php	/^	function ResetLockoutCtrUpdate($id=0)$/;"	f
+Role	Role.class.php	/^	function Role()$/;"	f
+Role	Role.class.php	/^class Role$/;"	c
+Save	ACL.class.php	/^	function Save($data=null)$/;"	f
+Save	Role.class.php	/^	function Save($data=null)$/;"	f
+Save	User.class.php	/^	function Save($data=null)$/;"	f
+SavePasswordLog	User.class.php	/^	function SavePasswordLog($user='',$pass='')$/;"	f
+Select_Options_Master	Select_Options_Master.class.php	/^	function Select_Options_Master()$/;"	f
+Select_Options_Master	Select_Options_Master.class.php	/^class Select_Options_Master$/;"	c
+Update	ACL.class.php	/^	function Update($data=null)$/;"	f
+Update	Role.class.php	/^	function Update($data=null)$/;"	f
+Update	User.class.php	/^	function Update($data=null)$/;"	f
+UpdateInquireWebStatus	View_Report_Master.php	/^	function UpdateInquireWebStatus($q_tran_id, $q_mtcn,$q_state)$/;"	f
+UpdatePassword	User.class.php	/^	function UpdatePassword($user='',$pass='')$/;"	f
+User	User.class.php	/^	function User()$/;"	f
+User	User.class.php	/^class User$/;"	c
+UserACL	UserACL.class.php	/^	function UserACL()$/;"	f
+UserACL	UserACL.class.php	/^class UserACL$/;"	c
+View_Log_Master	View_Log_Master.php	/^	function View_Log_Master()$/;"	f
+View_Log_Master	View_Log_Master.php	/^class View_Log_Master$/;"	c
+View_Report_Master	View_Report_Master.php	/^	function View_Report_Master()$/;"	f
+View_Report_Master	View_Report_Master.php	/^class View_Report_Master$/;"	c
+add_query_string	myCGI.php	/^	function add_query_string($xPairs)$/;"	f
+affected_rows	myDB.php	/^   function affected_rows() { return @mysql_affected_rows($this->_link); }$/;"	f
+base64_to_file	myUtils.php	/^function base64_to_file( $data, $outputfile )$/;"	f
+check_email	myUtils.php	/^function check_email($email) $/;"	f
+chk_pwd_valid	myMisc.php	/^function chk_pwd_valid($pwd='')$/;"	f
+close	myDB.php	/^   function close() { return @mysql_close($this->_link);  }$/;"	f
+close	myOraDb.php	/^	function close()$/;"	f
+connect	myDB.php	/^   function connect($host, $user, $pass, $dbname) {   	   	    $/;"	f
+data_seek	myDB.php	/^   function data_seek($result, $index) { return mysql_data_seek($result, $index); }$/;"	f
+dbConnection	myOraDb.php	/^	function dbConnection()$/;"	f
+debug	ACL.class.php	/^	function debug($msg='')$/;"	f
+debug	EventLogger.class.php	/^	function debug($msg='')$/;"	f
+debug	Role.class.php	/^	function debug($msg='')$/;"	f
+debug	Select_Options_Master.class.php	/^	function debug($msg='')$/;"	f
+debug	User.class.php	/^	function debug($msg='')$/;"	f
+debug	UserACL.class.php	/^	function debug($msg='')$/;"	f
+debug	View_Log_Master.php	/^	function debug($msg='')$/;"	f
+debug	View_Report_Master.php	/^	function debug($msg='')$/;"	f
+debug	myLogger.php	/^   function debug($msg="")$/;"	f
+debug	myOraDb.php	/^	function debug($msg='')$/;"	f
+debug	myUtils.php	/^function debug($msg='')$/;"	f
+decrypt	myUtils.php	/^function decrypt($str, $key)$/;"	f
+destroy	myLogger.php	/^   function destroy()$/;"	f
+encrypt	myUtils.php	/^function encrypt($str, $key) $/;"	f
+error	myDB.php	/^   function error($errstr, $debugstr="")$/;"	f
+fetch_array	myDB.php	/^   function fetch_array($result){ return @mysql_fetch_array($result); }$/;"	f
+fetch_assoc	myDB.php	/^   function fetch_assoc($result){    	 		$/;"	f
+fetch_row	myDB.php	/^   function fetch_row($result){ return @mysql_fetch_row($result); }$/;"	f
+field_name	myDB.php	/^   function field_name($result, $index) { return mysql_field_name($result, $index); }   $/;"	f
+file_save	myUtils.php	/^function file_save($filename='',$contents='',$mode='A')$/;"	f
+format_string	myUtils.php	/^function format_string($line)$/;"	f
+free_resource	myDB.php	/^   function free_resource($result){ return @mysql_free_result($result); }   $/;"	f
+getConnection	myOraDb.php	/^	function getConnection()$/;"	f
+getLink	myOraDb.php	/^	function getLink($usr,$pwd,$dsn)$/;"	f
+getList	ACL.class.php	/^	function getList($extravars=null)$/;"	f
+getList	Role.class.php	/^	function getList($extravars=null)$/;"	f
+getList	User.class.php	/^	function getList($extravars=null)$/;"	f
+getListGCashLog	View_Log_Master.php	/^	function getListGCashLog($extravars=null)$/;"	f
+getListTranKeyLog	View_Log_Master.php	/^	function getListTranKeyLog($extravars=null)$/;"	f
+getListTranLog	View_Log_Master.php	/^	function getListTranLog($extravars=null)$/;"	f
+getListTranReqLog	View_Log_Master.php	/^	function getListTranReqLog($extravars=null)$/;"	f
+getListUserPassLog	User.class.php	/^	function getListUserPassLog($extravars=null)$/;"	f
+getModuleMaster	Select_Options_Master.class.php	/^	function getModuleMaster()$/;"	f
+getPwdExpirationDays	Select_Options_Master.class.php	/^	function getPwdExpirationDays()$/;"	f
+getRoleMaster	Select_Options_Master.class.php	/^	function getRoleMaster()$/;"	f
+getTableFields	ACL.class.php	/^	function getTableFields()$/;"	f
+getTableFields	Role.class.php	/^	function getTableFields()$/;"	f
+getTableFields	User.class.php	/^	function getTableFields()$/;"	f
+getTableFields4Update	ACL.class.php	/^	function getTableFields4Update($id="")$/;"	f
+getTableFields4Update	Role.class.php	/^	function getTableFields4Update($id="")$/;"	f
+getTableFields4Update	User.class.php	/^	function getTableFields4Update($id="")$/;"	f
+get_cookie_vars	myCGI.php	/^	function get_cookie_vars()$/;"	f
+get_dir_name	myCGI.php	/^	function get_dir_name()$/;"	f
+get_get_vars	myCGI.php	/^	function get_get_vars()$/;"	f
+get_link	myDB.php	/^   function get_link() { return $this->_link; }$/;"	f
+get_lock	myDB.php	/^ function get_lock($val, $secs=10) $/;"	f
+get_max_rec	myDB.php	/^   function get_max_rec($query) {$/;"	f
+get_milli_secs	myUtils.php	/^function get_milli_secs() $/;"	f
+get_ord_big_cap	myMisc.php	/^function get_ord_big_cap($str)$/;"	f
+get_ord_num	myMisc.php	/^function get_ord_num($str)$/;"	f
+get_ord_small_cap	myMisc.php	/^function get_ord_small_cap($str)$/;"	f
+get_php_self	myCGI.php	/^	function get_php_self()$/;"	f
+get_post_files	myCGI.php	/^	function get_post_files()$/;"	f
+get_post_vars	myCGI.php	/^	function get_post_vars()$/;"	f
+get_session_vars	myCGI.php	/^	function get_session_vars()$/;"	f
+get_uid	myUtils.php	/^function get_uid($id='')$/;"	f
+init	myOraDb.php	/^	function init()$/;"	f
+insert_id	myDB.php	/^   function insert_id() { return @mysql_insert_id($this->_link); }$/;"	f
+is_connected	myDB.php	/^   function is_connected() { return (empty ($this->_link))? False: True; }$/;"	f
+is_logged_in	myMisc.php	/^function is_logged_in()$/;"	f
+is_num	myUtils.php	/^function is_num($val='')$/;"	f
+is_older_php	myCGI.php	/^	function is_older_php()$/;"	f
+list_fields	myDB.php	/^   function list_fields($table) { return mysql_list_fields($this->_dbname, $table, $this->_link); }$/;"	f
+lock_table	myDB.php	/^   function lock_table($table, $mode="WRITE") {$/;"	f
+log	myLogger.php	/^   function log($msg="")$/;"	f
+logout_session	myMisc.php	/^function logout_session()$/;"	f
+make_query_string	myCGI.php	/^	function make_query_string($xPairs)$/;"	f
+myLogger	myLogger.php	/^   function myLogger($logfile="\/tmp\/myLogger.log",$mode="a")$/;"	f
+myLogger	myLogger.php	/^class myLogger $/;"	c
+myOraDb	myOraDb.php	/^	function myOraDb($usr,$pwd,$dsn)$/;"	f
+myOraDb	myOraDb.php	/^class myOraDb$/;"	c
+mySqlDb	myDB.php	/^   function mySqlDb($host, $user, $pass, $dbname) {  	 	$/;"	f
+mySqlDb	myDB.php	/^class mySqlDb $/;"	c
+num_fields	myDB.php	/^   function num_fields($result){ return mysql_num_fields($result); }$/;"	f
+num_rows	myDB.php	/^   function num_rows($result) { return @mysql_num_rows($result); }$/;"	f
+ora_addslashes	myUtils.php	/^function ora_addslashes($str) $/;"	f
+query	myDB.php	/^   function query($query, $errstr) {      $/;"	f
+query	myOraDb.php	/^	function query($sql='')$/;"	f
+redir_page	myUtils.php	/^function redir_page($url='index.php', $msg='')$/;"	f
+release_lock	myDB.php	/^ function release_lock($val)$/;"	f
+save_uploaded_pic	myUtils.php	/^function save_uploaded_pic($fileparam='',$uploaddir='\/tmp\/',$newsavefile='',$thumb_size=96)$/;"	f
+setDsn	myOraDb.php	/^	function setDsn($v)$/;"	f
+setPwd	myOraDb.php	/^	function setPwd($v)$/;"	f
+setUsr	myOraDb.php	/^	function setUsr($v)$/;"	f
+set_cookies	myCGI.php	/^	function set_cookies($xCookies, $xExpire=0)$/;"	f
+set_session_var	myCGI.php	/^	function set_session_var($xVarName, $xValue)$/;"	f
+set_square_thumbnail	myUtils.php	/^ function set_square_thumbnail($source,$dest)$/;"	f
+unlock_tables	myDB.php	/^   function unlock_tables() {$/;"	f
+unset_session_vars	myCGI.php	/^	function unset_session_vars()$/;"	f
+urlsafe_b64decode	myUtils.php	/^function urlsafe_b64decode($string) $/;"	f
+write	myLogger.php	/^   function write($msg="")$/;"	f
+xBind	myOraDb.php	/^	function xBind($sql='',$bindK,$bindV)$/;"	f
+xQuery	myOraDb.php	/^	function xQuery($sql='')$/;"	f
